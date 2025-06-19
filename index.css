@@ -1,0 +1,37 @@
+table {
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid black;
+    width: 250px;
+    height: 30px;
+    padding: 8px;
+    text-align: center;
+}
+
+#add {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.hide {
+    display: none;
+}
+
+.cherevacogh {
+    display: none;
+}
+
+.edit {
+    margin-left: 5px;
+}
+
+.search {
+    margin-bottom: 15px;
+}
+
+.disableText {
+    display: none;
+}
