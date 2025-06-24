@@ -135,3 +135,5 @@ let syuner = document.querySelectorAll('.syun');
 syuner.forEach((syun) => {
     syun.addEventListener('dblclick', editButtonListener);
 });
+
+//krknaki qliqi jamanak petqa syuneri dashter@ aktivanan
